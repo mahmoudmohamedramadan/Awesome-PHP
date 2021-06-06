@@ -46,5 +46,3 @@ print_r($reflectionClassObject->getMethods());
 /* getProperties function to get all properties inside object which you pass */
 print_r($reflectionClassObject->getProperties());
 
-/* Here is the link to digg into reflection defination 👇⚡
-https://www.php.net/manual/en/book.reflection.php */
