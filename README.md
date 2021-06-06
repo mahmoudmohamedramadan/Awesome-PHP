@@ -67,7 +67,7 @@ composer require amphp/mysql
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/AmPHP-MySQL/index.php">AmPHP-MySQL/index.php</a></p>
 
 ### Reflection PHP
-**Reflection API allows you to know more information about Classes, Interfaces, Functions and Extenstions*
+**Reflection API allows you to know more information about Classes, Interfaces, Functions and Extenstions**
 <p>There is no installation needed to use these functions; they are part of the PHP core</p>
 
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Reflection/index.php">Reflection/index.php</a></p>
