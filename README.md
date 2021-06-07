@@ -7,6 +7,7 @@
     <li><a href="https://github.com/tijsverkoyen/CssToInlineStyles">CssToInlineStyles</a></li>
     <li><a href="https://github.com/amphp/mysql">Amp PHP MySQL</a></li>
     <li><a href="https://www.php.net/manual/en/book.reflection.php">Reflection PHP</a></li>
+    <li><a href="https://github.com/KnpLabs/KnpMenu">KNP-Menu</a></li>
 </ul>
 
 ## Getting Started
@@ -72,3 +73,15 @@ composer require amphp/mysql
 <p>There is no installation needed to use these functions; they are part of the PHP core</p>
 
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Reflection/index.php">Reflection/index.php</a></p>
+
+### KNP-Menu
+**This package allows you to create list HTML tag WITHOUT writing any HTML code**
+<p>To install KNP-Menu package, run the NEXT command</p>
+
+```
+composer require knplabs/knp-menu
+```
+
+<p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/KNP-Menu/index.php">KNP-Menu/index.php</a></p>
+
+### Finally run `php -S localhost:8000` command...enjoy 😉🤙
