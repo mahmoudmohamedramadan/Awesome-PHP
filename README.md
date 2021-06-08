@@ -8,6 +8,7 @@
     <li><a href="https://github.com/amphp/mysql">Amp PHP MySQL</a></li>
     <li><a href="https://www.php.net/manual/en/book.reflection.php">Reflection PHP</a></li>
     <li><a href="https://github.com/KnpLabs/KnpMenu">KNP-Menu</a></li>
+    <li><a href="https://github.com/squizlabs/PHP_CodeSniffer">PHP-CodeSniffer</a></li>
 </ul>
 
 ## Getting Started
@@ -83,5 +84,25 @@ composer require knplabs/knp-menu
 ```
 
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/KNP-Menu/index.php">KNP-Menu/index.php</a></p>
+
+### PHP-CodeSniffer
+**This package allows you to detect violations of a defined coding standard in PHP, HTML, CSS files using two files, the first one is `phpcs` and the second one is `phpcbf` which used to automatically correct code standard violations**
+<p>To install PHP-CodeSniffer package, run the NEXT command</p>
+
+```
+composer require squizlabs/php_codesniffer
+```
+
+<p>To show the ERRORS and WARNING in your code like <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/assets/img/phpcs.png">phpcs.png image</a>, run the NEXT command</p>
+
+```
+./vendor/bin/phpcs folderPath/filePath.php
+```
+
+<p>To automatically correct code standard violations like <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/assets/img/phpcbf.png">phpcbf.png image</a>, run the NEXT command</p>
+
+```
+./vendor/bin/phpcbf folderPath/filePath.php
+```
 
 ### Finally run `php -S localhost:8000` command...enjoy 😉🤙
