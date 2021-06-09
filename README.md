@@ -9,6 +9,7 @@
     <li><a href="https://www.php.net/manual/en/book.reflection.php">Reflection PHP</a></li>
     <li><a href="https://github.com/KnpLabs/KnpMenu">KNP-Menu</a></li>
     <li><a href="https://github.com/squizlabs/PHP_CodeSniffer">PHP-CodeSniffer</a></li>
+    <li><a href="https://github.com/briannesbitt/Carbon">Carbon</a></li>
 </ul>
 
 ## Getting Started
@@ -104,5 +105,15 @@ composer require squizlabs/php_codesniffer
 ```
 ./vendor/bin/phpcbf folderPath/filePath.php
 ```
+
+### Carbon
+**This package allows you deal WITH date and time in easy manner**
+<p>To install Carbon package, run the NEXT command</p>
+
+```
+composer require nesbot/carbon
+```
+
+<p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Carbon/index.php">KNP-Menu/index.php</a></p>
 
 ### Finally run `php -S localhost:8000` command...enjoy 😉🤙
