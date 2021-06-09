@@ -114,6 +114,6 @@ composer require squizlabs/php_codesniffer
 composer require nesbot/carbon
 ```
 
-<p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Carbon/index.php">KNP-Menu/index.php</a></p>
+<p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Carbon/index.php">Carbon/index.php</a></p>
 
 ### Finally run `php -S localhost:8000` command...enjoy 😉🤙
