@@ -11,6 +11,7 @@
     <li><a href="https://github.com/squizlabs/PHP_CodeSniffer">PHP-CodeSniffer</a></li>
     <li><a href="https://github.com/briannesbitt/Carbon">Carbon</a></li>
     <li><a href="https://github.com/brick/money">Money</a></li>
+    <li><a href="https://github.com/erusev/parsedown">Markup</a></li>
 </ul>
 
 ## Getting Started
@@ -126,5 +127,15 @@ composer require brick/money
 ```
 
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Money/index.php">Money/index.php</a></p>
+
+### Markup
+**This package allows you to deal WITH HTML in and easy and beautiful manner**
+<p>To install Markup package, run the NEXT command</p>
+
+```
+composer require rusev/parsedown
+```
+
+<p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Markup/index.php">Markup/index.php</a></p>
 
 ### Finally run `php -S localhost:8000` command...enjoy 😉🤙
