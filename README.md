@@ -10,6 +10,7 @@
     <li><a href="https://github.com/KnpLabs/KnpMenu">KNP-Menu</a></li>
     <li><a href="https://github.com/squizlabs/PHP_CodeSniffer">PHP-CodeSniffer</a></li>
     <li><a href="https://github.com/briannesbitt/Carbon">Carbon</a></li>
+    <li><a href="https://github.com/brick/money">Money</a></li>
 </ul>
 
 ## Getting Started
@@ -115,5 +116,15 @@ composer require nesbot/carbon
 ```
 
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Carbon/index.php">Carbon/index.php</a></p>
+
+### Money
+**This package allows you deal WITH monetary calculations carefully**
+<p>To install Mony package, run the NEXT command</p>
+
+```
+composer require brick/money
+```
+
+<p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Money/index.php">Money/index.php</a></p>
 
 ### Finally run `php -S localhost:8000` command...enjoy 😉🤙
