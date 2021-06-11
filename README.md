@@ -14,6 +14,7 @@
     <li><a href="https://github.com/erusev/parsedown">Markup</a></li>
     <li><a href="https://github.com/jenssegers/agent">Agent</a></li>
     <li><a href="https://github.com/jenssegers/blade">Blade</a></li>
+    <li><a href="https://github.com/beberlei/assert">Assertion</a></li>
 </ul>
 
 ## Getting Started
@@ -159,5 +160,15 @@ composer require jenssegers/blade
 ```
 
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Blade/index.php">Blade/index.php</a></p>
+
+### Assertion
+**This package allows you to validate your form inputs in an easy manner**
+<p>To install Assertion package, run the NEXT command</p>
+
+```
+composer require beberlei/assert
+```
+
+<p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Assertion/index.php">Blade/index.php</a></p>
 
 ### Finally run `php -S localhost:8000` command...enjoy 😉🤙
