@@ -12,6 +12,7 @@
     <li><a href="https://github.com/briannesbitt/Carbon">Carbon</a></li>
     <li><a href="https://github.com/brick/money">Money</a></li>
     <li><a href="https://github.com/erusev/parsedown">Markup</a></li>
+    <li><a href="https://github.com/jenssegers/agent">Agent</a></li>
 </ul>
 
 ## Getting Started
@@ -137,5 +138,15 @@ composer require rusev/parsedown
 ```
 
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Markup/index.php">Markup/index.php</a></p>
+
+### Agent
+**This package allow you to get more info about the device and the browser that running the application**
+<p>To install Agent package, run the NEXT command</p>
+
+```
+composer require jenssegers/agent
+```
+
+<p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Agent/index.php">Agent/index.php</a></p>
 
 ### Finally run `php -S localhost:8000` command...enjoy 😉🤙
