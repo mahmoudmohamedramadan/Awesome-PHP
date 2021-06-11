@@ -141,7 +141,7 @@ composer require rusev/parsedown
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Markup/index.php">Markup/index.php</a></p>
 
 ### Agent
-**This package allow you to get more info about the device and the browser that running the application**
+**This package allows you to get more info about the device and the browser that running the application**
 <p>To install Agent package, run the NEXT command</p>
 
 ```
