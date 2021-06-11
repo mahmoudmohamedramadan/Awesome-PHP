@@ -169,6 +169,6 @@ composer require jenssegers/blade
 composer require beberlei/assert
 ```
 
-<p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Assertion/index.php">Blade/index.php</a></p>
+<p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Assertion/index.php">Assertion/index.php</a></p>
 
 ### Finally run `php -S localhost:8000` command...enjoy 😉🤙
