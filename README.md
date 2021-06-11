@@ -44,7 +44,7 @@ php -S localhost:8000 -t app/Aura-Router
 **`-t` argument refer to the PATH of `index.php`**
 
 ### DiDOM Web Scraping
-**This package allows you to extract information from specific page/link**
+**This package allows you to extract information from a specific page/link**
 <p>To install DiDOM package, run the NEXT command</p>
 
 ```
@@ -54,7 +54,7 @@ composer require imangazaliev/didom
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/DiDOM-Web-Scraping/index.php">DiDOM-Web-Scraping/index.php</a></p>
 
 ### CssToInlineStyles
-**This package allows to merge separated HTML and CSS files into one file, and this will be very useful when you decide to send email**
+**This package allows to merge separated HTML and CSS files into one file, and this will be very useful when you decide to send an email**
 <p>To install CssToInlineStyles package, run the NEXT command</p>
 
 ```
@@ -64,7 +64,7 @@ composer require tijsverkoyen/css-to-inline-styles
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/CssToInlineStyles/index.php">CssToInlineStyles/index.php</a></p>
 
 ### AmPHP MySQL
-**We all know that PHP work synchronous execution, So if you send a query database then you should wait until database server response you in a blocking manner, So instead of sitting do nothing you can send the NEXT query database or do an HTTP call to an API**
+**We all know that PHP work synchronous execution, So if you send a query database then you should wait until the database server responds to you in a blocking manner, So instead of sitting do nothing you can send the NEXT query database or do an HTTP call to an API**
 <p>To install AmPHP MySQL package, run the NEXT command</p>
 
 ```
@@ -74,13 +74,13 @@ composer require amphp/mysql
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/AmPHP-MySQL/index.php">AmPHP-MySQL/index.php</a></p>
 
 ### Reflection PHP
-**Reflection API allows you to know more information about Classes, Interfaces, Functions and Extenstions**
+**Reflection API allows you to know more information about Classes, Interfaces, Functions, and Extensions**
 <p>There is no installation needed to use these functions; they are part of the PHP core</p>
 
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Reflection/index.php">Reflection/index.php</a></p>
 
 ### KNP-Menu
-**This package allows you to create list HTML tag WITHOUT writing any HTML code**
+**This package allows you to create a list HTML tag WITHOUT writing any HTML code**
 <p>To install KNP-Menu package, run the NEXT command</p>
 
 ```
@@ -110,7 +110,7 @@ composer require squizlabs/php_codesniffer
 ```
 
 ### Carbon
-**This package allows you deal WITH date and time in easy manner**
+**This package allows you to deal WITH date and time in an easy manner**
 <p>To install Carbon package, run the NEXT command</p>
 
 ```
@@ -120,7 +120,7 @@ composer require nesbot/carbon
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Carbon/index.php">Carbon/index.php</a></p>
 
 ### Money
-**This package allows you deal WITH monetary calculations carefully**
+**This package allows you to deal WITH monetary calculations carefully**
 <p>To install Mony package, run the NEXT command</p>
 
 ```
@@ -130,7 +130,7 @@ composer require brick/money
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Money/index.php">Money/index.php</a></p>
 
 ### Markup
-**This package allows you to deal WITH HTML in and easy and beautiful manner**
+**This package allows you to deal WITH HTML in an easy and beautiful manner**
 <p>To install Markup package, run the NEXT command</p>
 
 ```
