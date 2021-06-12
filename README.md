@@ -16,6 +16,7 @@
     <li><a href="https://github.com/jenssegers/blade">Blade</a></li>
     <li><a href="https://github.com/beberlei/assert">Assertion</a></li>
     <li><a href="https://github.com/thephpleague/fractal">Fractal</a></li>
+    <li><a href="https://github.com/jolicode/JoliNotif">Notification</a></li>
 </ul>
 
 ## Getting Started
@@ -181,5 +182,15 @@ composer require league/fractal
 ```
 
 <p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Fractal/index.php">Fractal/index.php</a></p>
+
+### Notification
+**This package allows displaying desktop notifications**
+<p>To install Notification package, run the NEXT command</p>
+
+```
+composer require jolicode/jolinotif
+```
+
+<p>Then copy & past the code in <a href="https://github.com/mahmoudmohamedramadan/Awesome-PHP/blob/master/app/Notification/index.php">Notification/index.php</a></p>
 
 ### Finally run `php -S localhost:8000` command...enjoy 😉🤙
