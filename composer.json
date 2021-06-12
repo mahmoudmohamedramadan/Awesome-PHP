@@ -12,7 +12,8 @@
         "erusev/parsedown": "^1.7",
         "jenssegers/agent": "^2.6",
         "jenssegers/blade": "^1.4",
-        "beberlei/assert": "^3.3"
+        "beberlei/assert": "^3.3",
+        "league/fractal": "^0.19.2"
     },
     "autoload": {
         "psr-4": {
