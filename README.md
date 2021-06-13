@@ -1,6 +1,6 @@
 # Awesome PHP Project
 
-## Coverd Topices 🤙⚡
+## Covered Topics 🤙⚡
 <ul>
     <li><a href="https://github.com/auraphp/Aura.Router">Aura Router</a></li>
     <li><a href="https://github.com/Imangazaliev/DiDOM">DiDOM Web Scraping</a></li>
