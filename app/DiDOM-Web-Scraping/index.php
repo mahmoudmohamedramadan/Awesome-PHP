@@ -33,6 +33,7 @@ if ($document->has('.postlist')) {
         // if ($location = $post->find('.postExtraInfo')[1]) {
         //     echo "<td>{$location->find('.postExtraInfoPart')[0]->find('a::text')[0]}</td>";
         // }
+        
         // if ($owner = $post->find('.postExtraInfo')[1]) {
         //     echo "<td>{$owner->find('.postExtraInfoPart')[1]->find('a::text')[0]}</td>";
         // }

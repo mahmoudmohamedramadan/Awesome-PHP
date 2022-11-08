@@ -37,7 +37,7 @@ HTML;
 // create instance
 $cssToInlineStyles = new CSSTOInlineStyles();
 
-$css = file_get_contents(__DIR__ . '/app.css');
+$css = file_get_contents(dirname(__FILE__, 2) . '/assets/css/app.css');
 
 // output
 echo $cssToInlineStyles->convert(

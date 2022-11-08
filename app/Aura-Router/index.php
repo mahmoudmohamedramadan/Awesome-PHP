@@ -1,7 +1,8 @@
 <?php
 
-/* here using second parameter, you specify How many step count to return
-for ex: we are here in `app` directory and we want to return to `awesome php` to get `vendor` directory, So we need to return 3 steps, So I've passed 3 to second parameter */
+// You specify how many step count to go back when passing the second parameter, 
+// for instance: we are here in the `app` directory and we want to return to `awesome php`
+// to get `vendor` directory, So we need to go back `3` steps, so I've passed 3 to second parameter
 require_once dirname(__FILE__, 3) . '/vendor/autoload.php';
 
 use Aura\Router\RouterContainer;
