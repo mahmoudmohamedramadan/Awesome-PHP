@@ -18,6 +18,9 @@
 - [Fractal](https://github.com/thephpleague/fractal)
 - [Notification](https://github.com/jolicode/JoliNotif)
 
+> [!NOTE]
+> You can add an awesome package, but please, go on the same approach I follow.
+
 ## 🚀 Getting Started
 
 Installation of the next packages requires [Composer](https://getcomposer.org/).
@@ -44,7 +47,7 @@ Finally, copy & paste the code in the [Aura-Router/index.php](/app/Aura-Router/i
 php -S localhost:8000 -t app/Aura-Router
 ```
 
-> [!NOTE]
+> [!TIP]
 > `-t` argument refers to the `index.php` path.
 
 ### DiDOM Web Scraping
@@ -195,6 +198,6 @@ Install the `Notification` package, then copy & paste the code in the [Notificat
 composer require jolicode/jolinotif
 ```
 
-## Support me
+## 💳 Support me
 
 - [PayPal](https://www.paypal.com/paypalme/mmramadan496)
